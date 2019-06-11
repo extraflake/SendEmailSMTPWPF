@@ -73,9 +73,9 @@ namespace SendEmail
                 smtpClient.EnableSsl = true;
                 smtpClient.Credentials = networkCredential;
                 mailMessage = new MailMessage { From = new MailAddress("bootcamp26.official@gmail.com", "Bootcamp 26", Encoding.UTF8) };
-                mailMessage.To.Add(new MailAddress("fadhilabdullah93@gmail.com"));
-                mailMessage.Subject = "Test";
-                mailMessage.Body = "body";
+                mailMessage.To.Add(new MailAddress(txtTo.Text));
+                mailMessage.Subject = txtSubject.Text;
+                mailMessage.Body = txtContent.Text;
                 mailMessage.BodyEncoding = Encoding.UTF8;
                 mailMessage.IsBodyHtml = true;
                 mailMessage.Priority = MailPriority.High;
