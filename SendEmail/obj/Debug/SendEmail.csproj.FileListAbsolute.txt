@@ -21,3 +21,28 @@ C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\SendEmail\SendEmail\obj\
 C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\SendEmail\SendEmail\obj\Debug\SendEmail.exe
 C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\SendEmail\SendEmail\obj\Debug\SendEmail.pdb
 C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\SendEmail\SendEmail\obj\Debug\SendEmail.csprojAssemblyReference.cache
+C:\Users\NaufalAj\Documents\Git\SendEmailSMTPWPF\SendEmail\bin\Debug\SendEmail.exe.config
+C:\Users\NaufalAj\Documents\Git\SendEmailSMTPWPF\SendEmail\bin\Debug\SendEmail.exe
+C:\Users\NaufalAj\Documents\Git\SendEmailSMTPWPF\SendEmail\bin\Debug\SendEmail.pdb
+C:\Users\NaufalAj\Documents\Git\SendEmailSMTPWPF\SendEmail\bin\Debug\MaterialDesignColors.dll
+C:\Users\NaufalAj\Documents\Git\SendEmailSMTPWPF\SendEmail\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\NaufalAj\Documents\Git\SendEmailSMTPWPF\SendEmail\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\NaufalAj\Documents\Git\SendEmailSMTPWPF\SendEmail\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\NaufalAj\Documents\Git\SendEmailSMTPWPF\SendEmail\obj\Debug\SendEmail.csprojAssemblyReference.cache
+C:\Users\NaufalAj\Documents\Git\SendEmailSMTPWPF\SendEmail\obj\Debug\Login.baml
+C:\Users\NaufalAj\Documents\Git\SendEmailSMTPWPF\SendEmail\obj\Debug\ForgotPassword.g.cs
+C:\Users\NaufalAj\Documents\Git\SendEmailSMTPWPF\SendEmail\obj\Debug\Login.g.cs
+C:\Users\NaufalAj\Documents\Git\SendEmailSMTPWPF\SendEmail\obj\Debug\MainWindow.g.cs
+C:\Users\NaufalAj\Documents\Git\SendEmailSMTPWPF\SendEmail\obj\Debug\App.g.cs
+C:\Users\NaufalAj\Documents\Git\SendEmailSMTPWPF\SendEmail\obj\Debug\SendEmail_MarkupCompile.cache
+C:\Users\NaufalAj\Documents\Git\SendEmailSMTPWPF\SendEmail\obj\Debug\SendEmail_MarkupCompile.lref
+C:\Users\NaufalAj\Documents\Git\SendEmailSMTPWPF\SendEmail\obj\Debug\App.baml
+C:\Users\NaufalAj\Documents\Git\SendEmailSMTPWPF\SendEmail\obj\Debug\ForgotPassword.baml
+C:\Users\NaufalAj\Documents\Git\SendEmailSMTPWPF\SendEmail\obj\Debug\MainWindow.baml
+C:\Users\NaufalAj\Documents\Git\SendEmailSMTPWPF\SendEmail\obj\Debug\SendEmail.g.resources
+C:\Users\NaufalAj\Documents\Git\SendEmailSMTPWPF\SendEmail\obj\Debug\SendEmail.Properties.Resources.resources
+C:\Users\NaufalAj\Documents\Git\SendEmailSMTPWPF\SendEmail\obj\Debug\SendEmail.csproj.GenerateResource.cache
+C:\Users\NaufalAj\Documents\Git\SendEmailSMTPWPF\SendEmail\obj\Debug\SendEmail.csproj.CoreCompileInputs.cache
+C:\Users\NaufalAj\Documents\Git\SendEmailSMTPWPF\SendEmail\obj\Debug\SendEmail.csproj.CopyComplete
+C:\Users\NaufalAj\Documents\Git\SendEmailSMTPWPF\SendEmail\obj\Debug\SendEmail.exe
+C:\Users\NaufalAj\Documents\Git\SendEmailSMTPWPF\SendEmail\obj\Debug\SendEmail.pdb

@@ -6,9 +6,7 @@
         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
         mc:Ignorable="d"
         Title="Login" Height="500" Width="350" 
-        ResizeMode="NoResize" 
         WindowStartupLocation="CenterScreen" 
-        WindowStyle="None" 
         FontFamily="Segoe UI Emoji">
     <Grid>
         <Rectangle Height="280" VerticalAlignment="Top">
@@ -35,7 +33,13 @@
         </Grid>
         <Button Name="Login_Btn" Width="150" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0,65" Content="LOGIN" Click="Login_Btn_Click"/>
         <CheckBox Name="Remember_chk" Content="Remember Me" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="30" Foreground="Gray"/>
-        <TextBlock Text="Forgot Password?" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="10" Foreground="Gray" Cursor="Hand"/>
+        <Button Name="Forgot_Btn" Click="Forgot_Btn_Click" VerticalAlignment="Bottom">
+            <Button.Template>
+                <ControlTemplate>
+                    <TextBlock Text="Forgot Password" Foreground="Gray" HorizontalAlignment="Center"/>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
         <Image Source="Assets/home.png" Width="100" Height="100" VerticalAlignment="Top" Margin="30"/>
     </Grid>
 </Window>

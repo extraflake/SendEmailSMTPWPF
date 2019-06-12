@@ -53,7 +53,7 @@ namespace SendEmail
                     Properties.Settings.Default.Remme = "no";
                     Properties.Settings.Default.Save();
                 }
-                this.Close();
+                this.Hide();
                 MainWindow calling = new MainWindow();
                 calling.ShowDialog();
             }
@@ -74,6 +74,13 @@ namespace SendEmail
                     Email_Txt.Text = Properties.Settings.Default.UserName;
                 }
             }
+        }
+
+        private void Forgot_Btn_Click(object sender, RoutedEventArgs e)
+        {
+            this.Hide();
+            ForgotPassword call = new ForgotPassword();
+            call.ShowDialog();
         }
     }
 }

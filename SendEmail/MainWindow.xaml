@@ -5,9 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:SendEmail"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="350" Width="500">
     <Grid>
-        <Label Content="Enter details to send email" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="202,0,0,0"/>
+        <Label Content="Enter details to send email" HorizontalAlignment="Center" VerticalAlignment="Top"/>
         <Label Content="To" HorizontalAlignment="Left" Margin="30,38,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
         <TextBox HorizontalAlignment="Left" Name="txtTo"  Height="23" Margin="124,41,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="350"/>
         <Label Content="Subject" HorizontalAlignment="Left" Margin="30,79,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
